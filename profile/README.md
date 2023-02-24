@@ -15,7 +15,7 @@ We are a little Minecraft modding team.
 ### Community Managers:
 * Flox
 * Matis
-### Translocators:
+### Translators:
 * Doniczka
 ### Friends:
 * Matez

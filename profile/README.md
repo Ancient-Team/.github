@@ -2,7 +2,7 @@
 We are a little Minecraft modding team.
 
 ## Our team
-### Leaders:
+### Leader:
 * K8bus -_-
 ### Programmers:
 * Kamileq_14

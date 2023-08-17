@@ -9,13 +9,10 @@ We are a little Minecraft modding team.
 * MALYMATI2007
 ### Artists:
 * Darq
-* _Xearina
 ### Sound Engineers:
 * TryHard
 ### Community Managers:
 * Flox
 * Matis
-### Translators:
-* Doniczka
 ### Friends:
 * Matez

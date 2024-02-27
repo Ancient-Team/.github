@@ -2,21 +2,22 @@
 We are a little Minecraft modding team.
 
 ## Chech out our team
-### Mod Devs:
+### Those who make Mods:
 * K8bus - _-
 * MALYMATI2007
 * Kamileq_14
-### Modpack Devs:
+### Those who make Modpacks:
 * Kamileq_14
 * K8bus - _-
 * .M4t1s.
 * MALYMATI2007
-### Graphics:
+### Those from graphics:
 * K8bus - _-
 * Pancake
-### Community Menagers:
+### Those who are helping you:
 * .M4t1s.
 * K8bus - _-
-### Friends:
+### Just team friends:
 * Matez
 * Flox
+* Tryhard

@@ -9,13 +9,13 @@ We are a little Minecraft modding team.
 ### Those who make Modpacks:
 * Kamileq_14
 * K8bus - _-
-* .M4t1s.
+* .m4t1s.
 * MALYMATI2007
 ### Those from graphics:
 * K8bus - _-
 * Pancake
 ### Those who are helping you:
-* .M4t1s.
+* .m4t1s.
 * K8bus - _-
 ### Just team friends:
 * Matez

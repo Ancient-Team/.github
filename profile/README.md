@@ -9,12 +9,12 @@ We are a little Minecraft modding team.
 ### Modpack Devs:
 * Kamileq_14
 * K8bus - _-
-* M4t1s
+* .M4t1s.
 ### Graphics:
 * K8bus - _-
 * Pancake
 ### Community Menagers:
-* M4t1s
+* .M4t1s.
 * K8bus - _-
 ### Friends:
 * Matez

@@ -19,6 +19,10 @@ We are a little Minecraft modding team.
 ### Those from graphics:
 * K8bus - _-
 * Pancake
+* hexy
+* Aeramisu
+### Those who make animations:
+* FLEEM
 ### Those who are helping you:
 * .m4t1s.
 * K8bus - _-

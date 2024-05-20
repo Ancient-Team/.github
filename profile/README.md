@@ -21,6 +21,7 @@ We are a little Minecraft modding team.
 * Pancake
 * hexy
 * Aeramisu
+* Frogballoon
 ### Those who make animations:
 * FLEEM
 ### Those who are helping you:

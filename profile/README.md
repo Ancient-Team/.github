@@ -20,7 +20,6 @@ We are a little Minecraft modding team.
 * K8bus - _-
 * Pancake
 * hexy
-* Aeramisu
 * Frogballoon
 ### Those who make animations:
 * FLEEM

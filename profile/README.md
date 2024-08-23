@@ -21,12 +21,9 @@ We are a little Minecraft modding team.
 * Pancake
 * hexy
 * Frogballoon
-### Those who make animations:
-* FLEEM
 ### Those who are helping you:
 * .m4t1s.
 * K8bus - _-
 ### Just team friends:
 * Matez
-* Flox
 * Tryhard

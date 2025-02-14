@@ -1,7 +1,7 @@
 # Hi!
 We are a little Minecraft modding team.
 
-[![Discord](https://badgen.net/badge/Join/Discord/?icon=discord)](https://discord.gg/gDrPpXb8qG)
+[![Discord](https://badgen.net/badge/Join/Discord/?icon=discord)](https://discord.gg/FWbnpuNmxr)
 [![X](https://badgen.net/badge/Follow/X.com/black)](https://x.com/Ancient_Team_)
 [![Modrinth](https://badgen.net/badge/Visit/Modrinth/1bd96a)](https://modrinth.com/organization/ancient-team)
 [![Mail](https://badgen.net/badge/Send/Mail/red)](mailto:AncientTeam@proton.me)
